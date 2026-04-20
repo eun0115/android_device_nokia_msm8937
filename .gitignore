@@ -100,4 +100,9 @@ all.config
 
 # fetched Android config fragments
 android/configs/android-*.cfg
+
+clang/
+AnyKernel/
+nd1.sh
 out/
+log.txt
